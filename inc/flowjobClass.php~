@@ -1,0 +1,13 @@
+<?php
+/*
+*
+*  Flowjob Class
+*  I do all the magic!
+*
+*/
+
+class Flowjob {
+	//sup
+}
+
+?>
